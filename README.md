@@ -1,6 +1,6 @@
 <div align="center">
 
-**`Terminal based Python application for writing reviews on products in a local inventory`**
+**`Object-Oriented Programming and Modelling for IA (da361b) course project, terminal based application for creating reviews with Python and UML`**
 
 ***`Skills`***
 
